@@ -2003,7 +2003,7 @@ dependencies = [
 [[package]]
 name = "blueprint-build-utils"
 version = "0.1.0"
-source = "git+https://github.com/tangle-network/gadget#12da32de5136a2d22db0bc1581707a3e3bfb44f2"
+source = "git+https://github.com/tangle-network/gadget#e0cf121113a46d7d63f2b85cdc3d18c3426027f1"
 
 [[package]]
 name = "blueprint-metadata"
